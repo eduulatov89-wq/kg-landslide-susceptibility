@@ -49,7 +49,7 @@ Put these in `python/aux/`, or point the environment variable `KG_AUX` to anothe
 |---|---|---|
 | `kg_adm1/kg_adm1_9.shp` | Oblast boundaries (fields ADM1_EN, oblast_id) | Ministry of Emergency Situations KR (2018), via HDX `cod-ab-kgz` |
 | `adm2/adm2.shp` | Raion boundaries (statistics only) | Ministry of Emergency Situations KR (2018), via HDX `cod-ab-kgz` |
-| `lakes/lakes_reserv_main.shp` | Six largest lakes and reservoirs (masked) | [VERIFY: source] |
+| `lakes/lakes_reserv_main.shp` | Six largest lakes and reservoirs (masked) | [GeoNode of the Water Resources Service](https://geonode.water.gov.kg), Kyrgyz Republic |
 | `faults/TS_Active_Flts_update.shp` | Active-fault traces (UTM 43N) | [Active Tectonics of the Northern Tien Shan](http://activetectonics.asu.edu/N_tien_shan/N_tien_shan_data.html), Arizona State University |
 | `geology/geology.shp` | Geological formation map | Layer `geonode:geology`, [GeoNode of the Water Resources Service](https://geonode.water.gov.kg), Kyrgyz Republic |
 | `cca/inform_cca_admin1_gadm.shp` | Country outlines (Fig. 1 locator only) | OCHA ROCCA / INFORM Central Asia admin 1 (GADM) |

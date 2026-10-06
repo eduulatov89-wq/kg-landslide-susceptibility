@@ -13,6 +13,7 @@ The licences were checked on the providers' pages in October 2026.
 | SoilGrids 2.0 | Topsoil clay and sand (0–30 cm) | CC BY 4.0 | Poggio et al. (2021), SOIL 7:217–240 |
 | Active Tectonics of the Northern Tien Shan GIS dataset (Arizona State University) | Distance to active faults | No terms of use stated | ASU (2006), http://activetectonics.asu.edu/N_tien_shan/N_tien_shan_data.html |
 | Geological formation map, layer `geonode:geology` (Water Resources Service, Kyrgyz Republic) | Lithology (11 groups) | No terms of use found | Water Resources Service (2019), https://geonode.water.gov.kg |
+| Lakes and reservoirs (Water Resources Service, Kyrgyz Republic, GeoNode) | Mask of the six largest lakes and reservoirs | No terms of use found | Water Resources Service (2019), https://geonode.water.gov.kg |
 | Administrative boundaries, Ministry of Emergency Situations KR (2018), HDX `cod-ab-kgz` | Oblast and raion statistics, mask | Not confirmed (the licence field did not load) | OCHA (2018) |
 | WorldPop Global2 R2025A constrained 100 m | 2025 population | CC BY 4.0 | Bondarenko et al. (2025), doi:10.5258/SOTON/WP00839 |
 | GHS-POP R2023A | 2025 population (check) | CC BY 4.0 | Schiavina et al. (2023) |

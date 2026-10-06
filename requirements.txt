@@ -1,0 +1,15 @@
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+scikit-learn==1.8.0
+xgboost==3.2.0
+shap==0.51.0
+rasterio==1.4.4
+pyproj==3.7.2
+shapely==2.1.2
+pyshp==3.1.6
+matplotlib==3.10.9
+joblib==1.5.3
+jenkspy==0.4.1
+Pillow==12.2.0
+colorspacious==1.1.2

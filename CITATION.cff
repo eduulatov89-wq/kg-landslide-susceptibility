@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software."
+title: "Nationwide landslide susceptibility of Kyrgyzstan (250 m): Google Earth Engine and Python code"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Duulatov
+    given-names: Eldiiar
+    affiliation: "Institute of Geology, National Academy of Sciences of the Kyrgyz Republic"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID
+keywords:
+  - landslide susceptibility
+  - Kyrgyzstan
+  - machine learning
+  - spatial cross-validation
+  - SHAP
+  - Google Earth Engine
+# repository-code: "https://github.com/USER/kg-landslide-susceptibility"   # add after creating the repository
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Duulatov
+      given-names: Eldiiar
+  title: "Nationwide landslide susceptibility of Kyrgyzstan: a statistically tested comparison of six machine-learning models with uncertainty and consensus mapping"
+  journal: "Landslides"
+  # year, volume and doi: add on acceptance

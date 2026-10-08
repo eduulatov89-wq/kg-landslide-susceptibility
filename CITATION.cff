@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the paper and this software."
 title: "Nationwide landslide susceptibility of Kyrgyzstan (250 m): Google Earth Engine and Python code"
 type: software
-version: 1.0.0
+version: 1.0.1
+doi: 10.5281/zenodo.23229003
 license: MIT
 authors:
   - family-names: Duulatov
@@ -16,7 +17,14 @@ keywords:
   - spatial cross-validation
   - SHAP
   - Google Earth Engine
-# repository-code: "https://github.com/USER/kg-landslide-susceptibility"   # add after creating the repository
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23229003
+    description: "Software, all versions (Zenodo concept DOI)"
+  - type: doi
+    value: 10.5281/zenodo.23192152
+    description: "Data: predictor layers and model outputs (Zenodo)"
+repository-code: "https://github.com/eduulatov89-wq/kg-landslide-susceptibility"
 preferred-citation:
   type: article
   authors:

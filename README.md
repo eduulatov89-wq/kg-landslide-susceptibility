@@ -1,5 +1,7 @@
 # Nationwide landslide susceptibility of Kyrgyzstan (250 m)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23229003.svg)](https://doi.org/10.5281/zenodo.23229003)
+
 This repository holds the Google Earth Engine and Python code for:
 
 > Duulatov E. Nationwide landslide susceptibility of Kyrgyzstan: a statistically tested comparison of six machine-learning models with uncertainty and consensus mapping. *Landslides* (submitted).
@@ -78,7 +80,7 @@ The 2025 population grids (WorldPop R2025A, GHS-POP R2023A) were summed to the 2
 
 ## Citation
 
-If you use this code, please cite the paper and the software record (see `CITATION.cff`). If you use the data, also cite the Zenodo data record.
+If you use this code, please cite the paper and the software record, https://doi.org/10.5281/zenodo.23229003 (see `CITATION.cff`). If you use the data, also cite the Zenodo data record, https://doi.org/10.5281/zenodo.23192152.
 
 ## Licence
 
